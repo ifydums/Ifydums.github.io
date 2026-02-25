@@ -43,8 +43,8 @@ author: IMC
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-This portfolio showcases my transition into Cloud Engineering, highlighting hands-on projects 
-in cloud infrastructure, automation, and system design, built on a strong foundation of Data Analytics. 
+  This portfolio showcases my transition into Cloud Engineering, highlighting hands-on projects 
+  in cloud infrastructure, automation, and system design, built on a strong foundation of Data Analytics. 
  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
