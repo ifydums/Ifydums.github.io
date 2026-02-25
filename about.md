@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-## About
+## Welcome to Ifeoma Margaret Chukwudum's Website
 
 ## Why
 
