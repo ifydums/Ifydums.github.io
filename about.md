@@ -21,4 +21,4 @@ This portfolio showcases my cloud labs, technical projects, and practical implem
 
 I am open to collaboration, mentorship, and growth opportunities within cloud and infrastructure-focused environments.
 
-Let’s connect and build scalable solutions.
+Let’s connect and build scalable solutions via email (ifeomachukwudum@gmail.com).
