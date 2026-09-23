@@ -7,18 +7,15 @@ title: About
 
 ### Why
 
-I am driven by the desire to build reliable and scalable systems that power modern businesses. With a strong foundation in Mathematics and Geographic Information Systems, I developed disciplined problem-solving skills and a deep understanding of structured data and system efficiency. My transition into Cloud Engineering is a deliberate step toward building secure, high-performing digital infrastructure.
-
+I build systems that make businesses run faster. My background in Mathematics and GIS gave me a structured, data-driven mindset, and I've channeled it into two high-demand skills: Cloud Engineering and AI Automation. I don't just learn tools; I deploy them to solve real problems.
 ### How
 
-I am building my expertise through continuous learning, structured technical training, and hands-on cloud projects. By practicing infrastructure deployment, automation, and system design, I am intentionally developing practical, production-ready skills.
-
+Hands-on, always. I design AI-powered workflows using Make, Zapier, n8n, Claude AI, ChatGPT, Gemini, and Google Workspace, and I build cloud infrastructure on Microsoft Azure. Every project I ship is practical, production-ready, and built with the end user in mind.
 ### What
 
-This portfolio showcases my cloud labs, technical projects, and practical implementations as I grow into Cloud Engineering. It reflects my analytical background, systems-thinking approach, and commitment to engineering excellence.
+This portfolio shows off my work: cloud labs, automation builds, and real implementations. If you need someone who can automate your workflows, cut manual tasks, and think in systems, I'm your person.
 
 ### Contact
 
-I am open to collaboration, mentorship, and growth opportunities within cloud and infrastructure-focused environments.
-
+Open to roles, contracts, and collaborations in Cloud Engineering and AI Automation.
 Let’s connect and build scalable solutions via email (ifeomachukwudum@gmail.com).
